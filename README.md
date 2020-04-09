@@ -1,2 +1,2 @@
 # AndroidTutorialSamples_Biginner
- Some basic samples with Java
+ Some basic Android samples with Java
