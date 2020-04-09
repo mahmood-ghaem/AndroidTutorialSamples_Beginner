@@ -1,12 +1,8 @@
 # Welcome to Android tutorial samples for biginner
 
+<img width="400" src="./readmeImage.png" />
+
 I`m going to publish some basic Android project in this repository. I hope you like them.
-
-
-
- #  Android Studio Java Object Oriented 
-
-<img src="./readmeImage.png" />
 
 
 [1-Custom_Toast_View](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/Custom_Toast_View)
