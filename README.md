@@ -1,6 +1,6 @@
 # Welcome to Android tutorial samples for biginner
 
-<img width="400"  alt="Android tutorial samples for biginner" align="middle" />
+<img width="400"  alt="Android tutorial samples for biginner" align="middle" src="./readmeImage.png" />
 
 I'm going to publish some basic Android project in this repository. I hope you like them.
 
