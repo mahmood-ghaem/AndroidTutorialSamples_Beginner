@@ -1,6 +1,6 @@
 # Welcome to Android tutorial samples for biginner
 
-<img width="400" style="center" src="./readmeImage.png" />
+<img style="display: block;margin-left: auto;margin-right: auto;width: 50%;" src="./readmeImage.png" />
 
 I'm going to publish some basic Android project in this repository. I hope you like them.
 
