@@ -20,6 +20,9 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
     }
 
+    /**
+     * this method call with button click
+     */
     public void clickFunc(View view)
     {
         LayoutInflater inflater = getLayoutInflater();
