@@ -7,8 +7,11 @@ I'm going to publish some basic Android project in this repository. I hope you l
 Sample projects:
 
 [1 - Custom Toast View](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/Custom-Toast-View)
+
 [2 - List View Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/List-View-Demo)
+
 [3 - Sound Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/Sound-Demo)
+
 [4 - Video Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/Video-Demo)
 
 
