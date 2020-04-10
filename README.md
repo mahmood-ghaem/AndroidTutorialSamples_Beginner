@@ -4,6 +4,7 @@
 <hr>
 I'm going to publish some basic Android project in this repository. I hope you like them.
 
+Sample projects:
 
 [1 - Custom Toast View](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/Custom-Toast-View)
 
