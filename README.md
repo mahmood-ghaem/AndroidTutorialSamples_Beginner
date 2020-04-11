@@ -6,15 +6,15 @@ I'm going to publish some basic Android project in this repository. I hope you l
 
 Sample projects:
 
-[1 - Custom Toast View](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/Custom-Toast-View)
+[1 - Custom Toast View](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/01-Custom-Toast-View)
 
-[2 - List View Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/List-View-Demo)
+[2 - List View Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/02-List-View-Demo)
 
-[3 - Sound Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/Sound-Demo)
+[3 - Sound Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/03-Sound-Demo)
 
-[4 - Video Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/Video-Demo)
+[4 - Video Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/04-Video-Demo)
 
-[5 - Multiplication Tables](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/Multiplication-Tables)
+[5 - Multiplication Tables](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Biginner/wiki/05-Multiplication-Tables)
 
 
 
