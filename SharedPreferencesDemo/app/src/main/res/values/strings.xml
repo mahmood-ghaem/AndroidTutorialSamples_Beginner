@@ -1,0 +1,18 @@
+<resources>
+    <string name = "app_name">SharedPreferencesDemo</string>
+    <string name = "content">
+<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:#777777;background-color:#f1f1f1;">
+  <h2>Save key-value data</h2>
+<p>If you have a relatively small collection of key-values that you\'d like to save, you should use the SharedPreferences APIs. A SharedPreferences object points to a file containing key-value pairs and provides simple methods to read and write them. Each SharedPreferences file is managed by the framework and can be private or shared.</p>
+<p><a href="https://developer.android.com/training/data-storage/shared-preferences">
+Read More
+</a>
+</p>
+ </body>
+</html>
+]]>
+     </string>
+</resources>
