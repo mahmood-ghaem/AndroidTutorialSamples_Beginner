@@ -18,7 +18,7 @@ Sample projects:
 
 [6 - SharedPreferences Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/06-SharedPreferences-Demo)
 
-
+[7 - ContextMenu Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/07-ContextMenu-Demo)
 
 
 
