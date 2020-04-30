@@ -20,6 +20,8 @@ Sample projects:
 
 [7 - ContextMenu Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/07-ContextMenu-Demo)
 
+[8 - Map Calculate Area](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/08-Map-Calculate-Area)
+
 
 
 I would be happy to know your feedback and help me to develop these examples.
