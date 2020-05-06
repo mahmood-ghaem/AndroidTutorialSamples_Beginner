@@ -24,6 +24,10 @@ Sample projects:
 
 [9 - Photo Import Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/09-Photo-Import-Demo)
 
+[10 - Custom TextView](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/10-Custom-TextView)
+
+
+
 I would be happy to know your feedback and help me to develop these examples.
 
 Good luck!
