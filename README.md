@@ -26,6 +26,8 @@ Sample projects:
 
 [10 - Custom TextView](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/10-Custom-TextView)
 
+[11 - ViewPager](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/11-ViewPager)
+
 
 
 I would be happy to know your feedback and help me to develop these examples.
