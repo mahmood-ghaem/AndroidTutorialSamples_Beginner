@@ -1,4 +1,4 @@
-# Welcome to Android tutorial samples for biginner
+# Welcome to Android tutorial samples for beginner
 
 <img width="400"  alt="Android tutorial samples for biginner" align="middle" src="./readmeImage.png" />
 <hr>
