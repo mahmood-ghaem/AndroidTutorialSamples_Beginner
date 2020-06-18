@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocalizationDemo</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="spinner_item_1">Blue</string>
+    <string name="spinner_item_2">Green</string>
+    <string name="spinner_item_3">Red</string>
+    <string name="please_select_item">Please select an item</string>
+    <string name="notyet">Website %1$s isn\'t yet available,\n I\'m working on it, please wait %2$s more days</string>
+    <string name="test_value">Hello</string>
+</resources>

@@ -28,6 +28,9 @@ Sample projects:
 
 [11 - ViewPager](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/11-ViewPager)
 
+[12 - Localization Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/12-Localization-Demo)
+
+
 
 
 I would be happy to know your feedback and help me to develop these examples.

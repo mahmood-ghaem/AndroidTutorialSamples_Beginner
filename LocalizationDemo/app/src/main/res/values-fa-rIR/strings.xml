@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">برنامه موقعیت های محلی</string>
+    <string name="hello_world">سلام به دنیا!</string>
+    <string name="please_select_item">لطفا یک گزینه را انتخاب کنید</string>
+    <string name="notyet">وب سایت %1$s هنوز در دسترس نیست. \nمن در حال کار بر روی آن هستم.لطفا %2$s روز دیگر صبر کنید.</string>
+    <string name="spinner_item_1">آبی</string>
+    <string name="spinner_item_2">سبز</string>
+    <string name="spinner_item_3">قرمز</string>
+    <string name="test_value">سلام</string>
+
+</resources>
