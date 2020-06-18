@@ -1,7 +1,10 @@
 package nl.mahmood.localizationdemo;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Context;
+import android.os.Build;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
@@ -9,9 +12,11 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity
 {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
@@ -37,5 +42,11 @@ public class MainActivity extends AppCompatActivity
         String notyet = getString(R.string.notyet, site, days);
         TextView textView2 = findViewById(R.id.textView2);
         textView2.setText(notyet);
+
+        //get primaryLocale
+        if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.N)
+        {
+            Locale primaryLocale  = this.getResources().getConfiguration().getLocales().get(0);
+        }
     }
 }
