@@ -40,6 +40,8 @@ Sample projects:
 
 [17 - Android Foreground Service](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/17-Android-Foreground-Service)
 
+[18 - Android Bound Service](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/18-Android-Bound-Service)
+
 
 
 
