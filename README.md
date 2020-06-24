@@ -30,6 +30,10 @@ Sample projects:
 
 [12 - Localization Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/12-Localization-Demo)
 
+[13 - Custom Broadcast Receiver](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/13-Custom-Broadcast-Receiver)
+
+[14 - Check Internet Connection](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/14-Check-Internet-Connection)
+
 
 
 
