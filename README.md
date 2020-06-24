@@ -36,6 +36,10 @@ Sample projects:
 
 [15 - Job Scheduler](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/15-Job-Scheduler)
 
+[16 - Android Background Service](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/16-Android-Background-Service)
+
+[17 - Android Foreground Service](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/17-Android-Foreground-Service)
+
 
 
 
