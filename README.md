@@ -34,6 +34,8 @@ Sample projects:
 
 [14 - Check Internet Connection](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/14-Check-Internet-Connection)
 
+[15 - Job Scheduler](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Beginner/wiki/15-Job-Scheduler)
+
 
 
 
